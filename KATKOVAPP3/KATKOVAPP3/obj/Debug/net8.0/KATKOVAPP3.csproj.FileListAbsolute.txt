@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\bin\Debug\net8.0\KATKOVAPP3.exe
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\bin\Debug\net8.0\KATKOVAPP3.deps.json
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\bin\Debug\net8.0\KATKOVAPP3.runtimeconfig.json
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\bin\Debug\net8.0\KATKOVAPP3.dll
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\bin\Debug\net8.0\KATKOVAPP3.pdb
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.AssemblyInfo.cs
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.dll
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\refint\KATKOVAPP3.dll
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.pdb
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\KATKOVAPP3.genruntimeconfig.cache
+C:\Users\PC\source\repos\KATKOVAPP3\KATKOVAPP3\obj\Debug\net8.0\ref\KATKOVAPP3.dll

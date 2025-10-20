@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\bin\Debug\net8.0\katkovapp5.exe
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\bin\Debug\net8.0\katkovapp5.deps.json
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\bin\Debug\net8.0\katkovapp5.runtimeconfig.json
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\bin\Debug\net8.0\katkovapp5.dll
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\bin\Debug\net8.0\katkovapp5.pdb
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.AssemblyInfo.cs
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.dll
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\refint\katkovapp5.dll
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.pdb
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\katkovapp5.genruntimeconfig.cache
+C:\Users\PC\source\repos\katkovapp5\katkovapp5\obj\Debug\net8.0\ref\katkovapp5.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KATKOVAPP4/1.0.0": {
+        "runtime": {
+          "KATKOVAPP4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KATKOVAPP4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
